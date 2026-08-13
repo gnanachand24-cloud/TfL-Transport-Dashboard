@@ -32,4 +32,10 @@ and all major transport modes.
 - **Data source** — TfL Open Data (publicly available under Mayor of London licence)
 
 ## Screenshots
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)<img width="1455" height="768" alt="Screenshot 2026-08-13 173528" src="https://github.com/user-attachments/assets/472a8de1-adcd-4729-a849-d0c097e1d6ca" />
+<img width="775" height="756" alt="Screenshot 2026-08-13 173640" src="https://github.com/user-attachments/assets/b9c22ecc-c2f7-4707-b18f-8ff0ab7e76a7" />
+<img width="946" height="747" alt="Screenshot 2026-08-13 173812" src="https://github.com/user-attachments/assets/4e90f319-2108-4798-ae38-9ddda3cdfb76" />
+<img width="1432" height="765" alt="Screenshot 2026-08-13 173706" src="https://github.com/user-attachments/assets/ff964ae7-2aac-4c87-8823-8c6e82ffcd55" />
+
+
+
